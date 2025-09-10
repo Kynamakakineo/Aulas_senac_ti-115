@@ -1,0 +1,1 @@
+## 2.Guardando informações na variavel.
