@@ -1,0 +1,1 @@
+Desenvolvimento do html que verifique o dia da semana e emita um aviso, como uma resposta ao dia ao usuárip
