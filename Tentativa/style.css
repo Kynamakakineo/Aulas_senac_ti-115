@@ -1,0 +1,30 @@
+body {
+    background-image: url("neymar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+    min-height: 100vh;             
+    margin: 0;                     
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: azure;
+
+}
+
+h2 {
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center;
+      }
+  
+button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+
+}
+
+.center-text {
+    text-align: center;
+}
